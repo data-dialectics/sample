@@ -6,4 +6,5 @@ The courses comprising the Data Science Specialization are:
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+
 Git is easy. Git is fun. Thanks Linus!
